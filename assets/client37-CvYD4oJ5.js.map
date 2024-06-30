@@ -1,1 +1,1 @@
-{"version":3,"file":"client37-CvYD4oJ5.js","sources":["../../../../public/images/clients/client37.png?url"],"sourcesContent":["export default \"__VITE_ASSET__DdAJDAWQ__\""],"names":["client37"],"mappings":"AAAA,MAAeA,EAAA"}
+{"version":3,"file":"client37-CvYD4oJ5.js","sources":["../../../../src/assets/clients/client37.png?url"],"sourcesContent":["export default \"__VITE_ASSET__DdAJDAWQ__\""],"names":["client37"],"mappings":"AAAA,MAAeA,EAAA"}

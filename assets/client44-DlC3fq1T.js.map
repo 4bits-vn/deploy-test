@@ -1,1 +1,1 @@
-{"version":3,"file":"client44-DlC3fq1T.js","sources":["../../../../public/images/clients/client44.png?url"],"sourcesContent":["export default \"__VITE_ASSET__kcFF$prH__\""],"names":["client44"],"mappings":"AAAA,MAAeA,EAAA"}
+{"version":3,"file":"client44-DlC3fq1T.js","sources":["../../../../src/assets/clients/client44.png?url"],"sourcesContent":["export default \"__VITE_ASSET__kcFF$prH__\""],"names":["client44"],"mappings":"AAAA,MAAeA,EAAA"}

@@ -1,1 +1,1 @@
-{"version":3,"file":"client01-CZBEHOcd.js","sources":["../../../../public/images/clients/client01.png?url"],"sourcesContent":["export default \"__VITE_ASSET__Ba$3C_MM__\""],"names":["client01"],"mappings":"AAAA,MAAeA,EAAA"}
+{"version":3,"file":"client01-CZBEHOcd.js","sources":["../../../../src/assets/clients/client01.png?url"],"sourcesContent":["export default \"__VITE_ASSET__Ba$3C_MM__\""],"names":["client01"],"mappings":"AAAA,MAAeA,EAAA"}

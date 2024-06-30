@@ -1,1 +1,1 @@
-{"version":3,"file":"client33-BmtN1WBN.js","sources":["../../../../public/images/clients/client33.png?url"],"sourcesContent":["export default \"__VITE_ASSET__CNLFksLE__\""],"names":["client33"],"mappings":"AAAA,MAAeA,EAAA"}
+{"version":3,"file":"client33-BmtN1WBN.js","sources":["../../../../src/assets/clients/client33.png?url"],"sourcesContent":["export default \"__VITE_ASSET__CNLFksLE__\""],"names":["client33"],"mappings":"AAAA,MAAeA,EAAA"}
